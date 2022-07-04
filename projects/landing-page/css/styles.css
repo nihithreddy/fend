@@ -88,12 +88,6 @@ section {
     transition: ease 0.3s all;
 }
 
-/*.menu__link_active{
-    background: #333;
-    color: #fff;
-    transition: ease 0.5s all;
-}*/
-
 .menu__link_active {
     color: rgb(255, 0, 0) !important;
 }
